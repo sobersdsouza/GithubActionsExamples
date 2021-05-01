@@ -1,4 +1,4 @@
-name: .NET
+name: Githut Actions .NET
 
 on:
   push:
